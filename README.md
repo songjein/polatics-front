@@ -1,4 +1,5 @@
-# feeeld_design_front
+# polatics front 
+폴라틱스 프론트 애플리케이션
 
 ## Project setup
 ```
