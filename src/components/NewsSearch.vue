@@ -4,12 +4,12 @@
 			Polatics	
 		</div>
 		<NewsSearchInput></NewsSearchInput>
-		<div id="news-search-result">
-		</div>
+		<NewsSearchResult></NewsSearchResult>
 	</div>
 </template>
 <script>
 import NewsSearchInput from './NewsSearchInput.vue';
+import NewsSearchResult from './NewsSearchResult.vue';
 export default {
 	data() {
 		return {
@@ -18,6 +18,7 @@ export default {
 	},
 	components: {
 		NewsSearchInput,	
+		NewsSearchResult,
 	}
 }
 </script>
