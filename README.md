@@ -3,9 +3,9 @@
 
 ## TODO
 - 프로젝트 셋업 방법은 아래 [참고](#project-setup)
-- NewsSearchResult 부분에 비교 유아이를 자유롭게 작성해보기
-- 필요하다면 구조 변경
-- Fork 후 변경사항은 pull request 혹은 회의 때 
+- NewsSearchResult 부분에 기사 비교 유아이를 자유롭게 작성해보기
+- 필요하다면 구조 변경 후 함께 리뷰
+- Fork 후 변경사항은 pull request 혹은 회의 때 공유
 
 ## 협업
 - github 저장소(repository) 포크 후 작업하다가, 원래의 origin 저장소(choisongyoo/polatics-front)와 동기화 하는법
