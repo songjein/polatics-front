@@ -2,6 +2,7 @@
 폴라틱스 프론트 애플리케이션
 
 ## TODO
+- 프로젝트 셋업 방법은 아래 [참고](## Project setup)
 - NewsSearchResult 부분에 비교 유아이를 자유롭게 작성해보기
 - 필요하다면 구조 변경
 - Fork 후 pull request
