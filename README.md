@@ -7,6 +7,11 @@
 - 필요하다면 구조 변경
 - Fork 후 변경사항은 pull request 혹은 회의 때 
 
+## 협업
+- github repository 포크 후, 원래의 origin 저장소(choisongyoo/polatics-front)와 동기화 하는법
+	- [참고자료1](https://www.slipp.net/questions/493)
+	- [참고자료2](http://www.notforme.kr/archives/1631)
+
 ## 구조
 - src/
 	- App.vue ; NewsSearch.vue 를 포함
